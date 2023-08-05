@@ -5,7 +5,7 @@ const Footer = (props) =>{
         <div>
             <hr/>
             <center>
-                &coppy; Developer Funnel {props.month} {props.year}
+                &copy; Developer Funnel {props.month} {props.year}
             </center>
         </div>
     )

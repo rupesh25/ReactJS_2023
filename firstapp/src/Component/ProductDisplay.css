@@ -1,0 +1,21 @@
+.main{
+    width:80%;
+    margin-left:10%;
+    display: inline-block;
+}
+
+.card{
+    text-align: center;
+    width: 25%;
+    margin: 2%;
+    height: 330px;
+    box-shadow: 5px 10px 15px gray;
+    float: left;
+    padding: 20px;
+}
+
+.card > img{
+    height:150px;
+    width:auto;
+    max-width: 250px;
+}
